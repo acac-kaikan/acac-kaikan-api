@@ -52,8 +52,6 @@ A API sobe em `http://localhost:8080`, com o Swagger em `http://localhost:8080/s
 
 + Este repo segue os padrões de commit, branching e API definidos em [`kaikan-cachoeira-docs`](https://github.com/kaikan-cachoeira/kaikan-cachoeira-docs):
 
-- Commits: `docs/PADRONIZACAO_COMMITS.md`
-- Branches: `docs/FLUXO_DE_DESENVOLVIMENTO.md` (`feat/nome-da-feature → dev → main`)
-- Contrato de API: `docs/ENDPOINTS.md`
-
-+ Detalhes completos em `kaikan-cachoeira-docs/ENDPOINTS.md`.
+- Commits: [`PADRONIZACAO_COMMITS.md]`](https://github.com/kaikan-cachoeira/kaikan-cachoeira-docs/blob/main/PADRONIZACAO_COMMITS.md)
+- Branches: [`FLUXO_DE_DESENVOLVIMENTO.md`](https://github.com/kaikan-cachoeira/kaikan-cachoeira-docs/blob/main/FLUXO_DE_DESENVOLVIMENTO.md) (`feat/nome-da-feature → dev → main`)
+- Contrato de API: `kaikan-cachoeira-ENDPOINTS.md`
