@@ -1,7 +1,7 @@
 services:
   db:
     image: postgres:16-alpine
-    container_name: ${DB_CONTAINER_NAME:-acac-kaikan-db}
+    container_name: ${DB_CONTAINER_NAME:-kaikan-cachoeira-db}
     restart: unless-stopped
     environment:
       POSTGRES_DB: ${DB_NAME:-kaikan}

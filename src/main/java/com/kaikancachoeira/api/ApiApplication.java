@@ -1,4 +1,4 @@
-package com.acac.kaikan.api;
+package com.kaikancachoeira.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

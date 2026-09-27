@@ -1,4 +1,4 @@
-package com.acac.kaikan.api;
+package com.kaikancachoeira.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
