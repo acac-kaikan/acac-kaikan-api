@@ -1,6 +1,6 @@
-# ACAC Kaikan - API
+# Kaikan Cachoeira - API
 
-API do sistema de gestão da associação. Veja a visão geral do projeto no [README da organização](https://github.com/acac-kaikan).
+API do sistema de gestão da associação. Veja a visão geral do projeto no [README da organização](https://github.com/kaikan-cachoeira).
 
 ## Stack
 
@@ -50,10 +50,10 @@ A API sobe em `http://localhost:8080`, com o Swagger em `http://localhost:8080/s
 
 ## Padrões
 
-Este repo segue os padrões de commit, branching e API definidos em [`kaikan-cachoeira`](https://github.com/acac-kaikan/kaikan-cachoeira):
++ Este repo segue os padrões de commit, branching e API definidos em [`kaikan-cachoeira-docs`](https://github.com/kaikan-cachoeira/kaikan-cachoeira-docs):
 
 - Commits: `docs/PADRONIZACAO_COMMITS.md`
 - Branches: `docs/FLUXO_DE_DESENVOLVIMENTO.md` (`feat/nome-da-feature → dev → main`)
 - Contrato de API: `docs/ENDPOINTS.md`
 
-Detalhes completos em `kaikan-cachoeira/ENDPOINTS.md`.
++ Detalhes completos em `kaikan-cachoeira-docs/ENDPOINTS.md`.
