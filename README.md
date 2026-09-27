@@ -50,10 +50,10 @@ A API sobe em `http://localhost:8080`, com o Swagger em `http://localhost:8080/s
 
 ## Padrões
 
-Este repo segue os padrões de commit, branching e API definidos em [`acac-kaikan-docs`](https://github.com/acac-kaikan/acac-kaikan-docs):
+Este repo segue os padrões de commit, branching e API definidos em [`kaikan-cachoeira`](https://github.com/acac-kaikan/kaikan-cachoeira):
 
 - Commits: `docs/PADRONIZACAO_COMMITS.md`
 - Branches: `docs/FLUXO_DE_DESENVOLVIMENTO.md` (`feat/nome-da-feature → dev → main`)
 - Contrato de API: `docs/ENDPOINTS.md`
 
-Detalhes completos em `acac-kaikan-docs/ENDPOINTS.md`.
+Detalhes completos em `kaikan-cachoeira/ENDPOINTS.md`.
